@@ -8,10 +8,10 @@ pinecone
 
 sentence-transformers
 
-paddleocr
-paddlepaddle
-
-
+easyocr
+opencv-python
+torch
+torchvision
 
 sympy
 numpy
