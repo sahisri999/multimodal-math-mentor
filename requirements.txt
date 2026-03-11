@@ -9,7 +9,7 @@ pinecone
 sentence-transformers
 
 easyocr
-opencv-python
+opencv-python-headless
 torch
 torchvision
 
@@ -27,6 +27,7 @@ python-multipart
 pydantic
 
 tqdm
+transformers
 
 python-docx
 pymupdf
